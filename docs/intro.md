@@ -2,46 +2,22 @@
 sidebar_position: 1
 ---
 
-# Tutorial Intro
+# Online Coaching Platform
 
-Let's discover **Docusaurus in less than 5 minutes**.
+Let's discover **our platform in less than 5 minutes**.
 
 ## Getting Started
 
-Get started by **creating a new site**.
+Get started by **know what our purpose**.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Meaning of Online Training Platform
 
-### What you'll need
+An online training platform is a digital tool or website that provides resources, courses, and materials for individuals to learn and develop skills remotely. It typically offers a variety of training modules, interactive exercises, videos, and assessments to facilitate learning in a virtual environment.
 
-- [Node.js](https://nodejs.org/en/download/) version 18.0 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+### What you'll need to start
 
-## Generate a new site
+You just need the **passion** to change your life and your budy to keep going up! 💪
 
-Generate a new Docusaurus site using the **classic template**.
+### How we start building our platform
 
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+We are 4 **engineers** ~not normal people~ `(Mohamed Tarek, Mohamed Ashraf, Mohamed Elsherbiny, Mazen Tarek)` who thought about how to provide a suitable environment for remote training after the Corona pandemic period. Therefore, we decided to build an **intermediary platform** between doctors, fitness trainers and bodybuilding trainers all in one row to help the client who needs a strong training and nutritional system from professional people.
