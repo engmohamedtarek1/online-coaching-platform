@@ -1,41 +1,20 @@
-# Website
+# Getting Started
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Let's discover **our platform in less than 5 minutes**.
 
-### Installation
+Get started by **know what our purpose**.
 
-```
-$ yarn
-```
+## Meaning of Online Training Platform
 
-### Local Development
+An online training platform is a digital tool or website that provides resources, courses, and materials for individuals to learn and develop skills remotely. It typically offers a variety of training modules, interactive exercises, videos, and assessments to facilitate learning in a virtual environment.
 
-```
-$ yarn start
-```
+## What you'll need to start
 
-This command starts a local development server and opens up a browser window. Most changes are reflected live without having to restart the server.
+You just need the **passion** to change your life and your budy to keep going up! 💪
 
-### Build
+## How we start building our platform
 
-```
-$ yarn build
-```
+We are 4 **engineers** ~not normal people~ `(Mohamed Tarek, Mohamed Ashraf, Mohamed Elsherbiny, Mazen Tarek)` who thought about how to provide a suitable environment for remote training after the Corona pandemic period. Therefore, we decided to build an **intermediary platform** between doctors, fitness trainers and bodybuilding trainers all in one row to help the client who needs a strong training and nutritional system from professional people.
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
 
-### Deployment
-
-Using SSH:
-
-```
-$ USE_SSH=true yarn deploy
-```
-
-Not using SSH:
-
-```
-$ GIT_USER=<Your GitHub username> yarn deploy
-```
-
-If you are using GitHub pages for hosting, this command is a convenient way to build the website and push to the `gh-pages` branch.
+**Copyright © 2024 Mohamed Tarek, Inc.**
