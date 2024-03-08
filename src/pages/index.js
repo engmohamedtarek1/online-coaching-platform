@@ -33,8 +33,8 @@ export default function Home() {
 	const { siteConfig } = useDocusaurusContext();
 	return (
 		<Layout
-			title={`Hello from ${siteConfig.title}`}
-			description="Description will go into a meta tag in <head />"
+			title={`${siteConfig.title}`}
+			description="Online training platform is a digital tool or website that provides resources, courses, and materials for individuals to learn and develop skills remotely. It typically offers a variety of training modules, interactive exercises, videos, and assessments to facilitate learning in a virtual environment."
 		>
 			<HomepageHeader />
 			<main>

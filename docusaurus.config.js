@@ -11,7 +11,7 @@ const config = {
 	title: 'Online Coaching Platform',
 	tagline: 'build your body!',
 	favicon:
-		'https://png.pngtree.com/element_our/20200609/ourmid/pngtree-arm-muscles-image_2226630.jpg',
+		'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Emoji_u1f4aa.svg/1200px-Emoji_u1f4aa.svg.png',
 
 	// Set the production url of your site here
 	url: 'https://your-docusaurus-site.example.com',
@@ -70,7 +70,7 @@ const config = {
 				title: 'Online Coaching Platform',
 				logo: {
 					alt: 'Online Coaching Platform Logo',
-					src: 'https://png.pngtree.com/element_our/20200609/ourmid/pngtree-arm-muscles-image_2226630.jpg',
+					src: 'https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Emoji_u1f4aa.svg/1200px-Emoji_u1f4aa.svg.png',
 				},
 				items: [
 					{
