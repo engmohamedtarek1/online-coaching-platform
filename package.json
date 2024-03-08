@@ -1,6 +1,6 @@
 {
-  "name": "swe-project",
-  "version": "1.0.0",
+  "name": "online-coaching-platform",
+  "version": "0.0.0",
   "private": true,
   "scripts": {
     "docusaurus": "docusaurus",
